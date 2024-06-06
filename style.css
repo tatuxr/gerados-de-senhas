@@ -1,3 +1,47 @@
-<style>
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
-</style>
+
+:root{
+    --branco: white;
+    --cor-de-fundo: #00162E;
+    --fundo-senha: #00244D;
+    --fundo-texto: #001E40;
+    --borda: #0075FF;
+    --Quicksand: 'Quicksand', sans-serif;
+    --Quicksand: 'Quicksand',monospace;
+
+}
+body{
+    color: var(--branco);
+    blackground-color: var(--cor-de-fundo);
+    font-family: var(--Quicksand);
+}
+
+.titulo-principal{
+    font-family: var(--Quicksand);
+    font-size: 32px;
+}
+
+.titulo-secundario{
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
